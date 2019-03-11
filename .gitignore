@@ -1,0 +1,6 @@
+guards.dat
+/__pycache__
+.DS_Store
+guard.py 
+guard_data.csv 
+complaints.csv 
